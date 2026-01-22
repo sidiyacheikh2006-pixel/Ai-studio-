@@ -1,0 +1,5 @@
+{
+  "name": "Stealth Gallery",
+  "description": "A privacy-focused gallery that masquerades as a simple photo viewer. By default, it shows decoy images. A secret long-press gesture on the header title reveals the private, locally stored gallery. It automatically re-locks when the app loses focus or is closed.",
+  "requestFramePermissions": []
+}

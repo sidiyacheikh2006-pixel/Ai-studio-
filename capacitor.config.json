@@ -1,0 +1,9 @@
+{
+  "appId": "com.stealth.gallery",
+  "appName": "Stealth Gallery",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
