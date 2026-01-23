@@ -1,6 +1,6 @@
 {
-  "appId": "com.stealth.gallery",
-  "appName": "Stealth Gallery",
+  "appId": "com.aistudio.app",
+  "appName": "Ai Studio",
   "webDir": "dist",
   "bundledWebRuntime": false,
   "server": {
